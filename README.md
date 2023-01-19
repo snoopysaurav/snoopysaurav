@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurav A.K.A Snoopy
 - 👀 I’m interested in Backend Development 👨‍💻🗄️
-- 🌱 I’m currently learning Nodejs , MongoDB. 
+- 🌱 I’m currently learning Nodejs
 
 <!---
 snoopysaurav/snoopysaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
